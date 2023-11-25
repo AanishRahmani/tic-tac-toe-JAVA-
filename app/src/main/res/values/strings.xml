@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="welcome_to_tik_tac_toe">Welcome to Tic Tac Toe</string>
+    <string name="grid">MAIN GRID</string>
+    <string name="ZERO">ZERO</string>
+    <string name="CROSS">CROSS</string>
+    <string name="status">STATUS</string>
+    <string name="heading">WELCOME TO TIC-TAC-TOE</string>
+    <string name="reset_button">RESET</string>
+</resources>
